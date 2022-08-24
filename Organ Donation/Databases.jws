@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<jws:workspace xmlns:jws="http://xmlns.oracle.com/ide/project">
+   <list n="contentSets">
+      <string v="RaptorFiles"/>
+   </list>
+   <list n="listOfChildren">
+      <hash><url n="URL" path="IdeConnections#BBMS.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Oracle+19c.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Oracle+19c.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Oracle+19c.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Oracle+19c.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Oracle+19c.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Oracle+19c.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Organ+Donation.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Project.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Oracle+19c.jpr"/></hash>
+      <hash><url n="URL" path="IdeConnections#Organ+Donation.jpr"/></hash>
+   </list>
+</jws:workspace>
